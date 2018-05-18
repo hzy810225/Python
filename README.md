@@ -1,2 +1,2 @@
 # Python
-Projects use python
+Projects use python.
