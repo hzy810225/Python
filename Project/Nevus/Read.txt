@@ -1,0 +1,12 @@
+1. 將 description 資料夾中的 json 檔轉換成 table => descriptionFull.csv [V]
+
+2. 清洗 descriptionFull.csv (暫時) => descriptionClear.csv [V]
+
+3. 用 descriptionClear.csv 建立 data (暫時且嘗試存起來) []
+
+4. 建立 CNN 框架
+
+5. Load data (3成功才可以)
+
+6. Fit model
+
